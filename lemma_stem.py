@@ -1,39 +1,29 @@
-import nltk
+import pandas as pd
 from nltk.stem import WordNetLemmatizer, PorterStemmer
+from nltk.tokenize import word_tokenize
 
-# === GEREKLİ NLTK VERİLERİNİ İNDİR ===
-required_packages = ['wordnet', 'omw-1.4']
-for package in required_packages:
-    nltk.download(package)
+# Gerekirse:
+# import nltk
+# nltk.download('punkt')
+# nltk.download('wordnet')
+# nltk.download('omw-1.4')
 
-# === DOSYA AYARLARI ===
-input_file = "tokenized_books_summary.txt"    # Önceki çıkan dosya
-lemmatized_output = "lemmatized_books_summary.txt"
-stemmed_output = "stemmed_books_summary.txt"
+df = pd.read_csv('books_tokenized.csv')
+df.dropna(inplace=True)
 
-# === Araçlar ===
 lemmatizer = WordNetLemmatizer()
 stemmer = PorterStemmer()
 
-# === TOKENLERİ OKU ===
-with open(input_file, "r", encoding="utf-8") as f:
-    text = f.read()
+def to_lemmatized(text):
+    tokens = word_tokenize(str(text))
+    return ' '.join([lemmatizer.lemmatize(token) for token in tokens])
 
-tokens = text.split()  # Boşluklardan ayırıp liste yapıyoruz
+def to_stemmed(text):
+    tokens = word_tokenize(str(text))
+    return ' '.join([stemmer.stem(token) for token in tokens])
 
-# === LEMMATIZATION İŞLEMİ ===
-lemmatized_tokens = [lemmatizer.lemmatize(token) for token in tokens]
+df['lemmatized'] = df['tokenized'].apply(to_lemmatized)
+df['stemmed'] = df['tokenized'].apply(to_stemmed)
 
-# === STEMMING İŞLEMİ ===
-stemmed_tokens = [stemmer.stem(token) for token in tokens]
-
-# === SONUÇLARI DOSYALARA KAYDET ===
-with open(lemmatized_output, "w", encoding="utf-8") as f:
-    f.write(" ".join(lemmatized_tokens))
-
-with open(stemmed_output, "w", encoding="utf-8") as f:
-    f.write(" ".join(stemmed_tokens))
-
-print(f"\n✅ Lemmatization ve Stemming işlemleri tamamlandı!")
-print(f"📄 Lemmatized dosya: {lemmatized_output}")
-print(f"📄 Stemmed dosya: {stemmed_output}")
+df[['book_name', 'lemmatized']].to_csv('books_lemmatized.csv', index=False)
+df[['book_name', 'stemmed']].to_csv('books_stemmed.csv', index=False)

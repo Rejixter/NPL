@@ -1,0 +1,1025 @@
+Model: tfidf_top10_stem_unique_books
+1.
+  Match Index     : 4720
+  Similarity Score: 0.1878
+  Book Name       : Multipliers
+  Sentence        : 4765 explain the five type of peopl who inspir support and improv other in their organ show you how to becom one as well as avoid diminish the peopl who drag down other and make it harder for them to perform work
+
+2.
+  Match Index     : 1534
+  Similarity Score: 0.1560
+  Book Name       : Thoughts Without A Thinker
+  Sentence        : 1551 help you get more peac overcom mental ill and eas suffer by outlin the principl of buddhism mind and medit as they relat to psychoanalysi product
+
+3.
+  Match Index     : 1650
+  Similarity Score: 0.1377
+  Book Name       : Bullshit Jobs
+  Sentence        : 1667 assert that roughli two out of everi five peopl are stuck in work that is bereft of purpos and these worker could suffer psycholog damag as a result product
+
+4.
+  Match Index     : 2063
+  Similarity Score: 0.1327
+  Book Name       : Leadership and Self-Deception
+  Sentence        : 2083 is a guid to becom selfawar by learn to see your fault more accur understand other strength and need and lean into your natur instinct to help other peopl as much as possibl psycholog
+
+5.
+  Match Index     : 1978
+  Similarity Score: 0.1197
+  Book Name       : How to Be a Conservative
+  Sentence        : 1996 build the case for traditionalist and conserv peopl who view societi through the lens of someon who defend their nation the longlast valu of the world the free market and mani other healthi principl psycholog
+
+6.
+  Match Index     : 4526
+  Similarity Score: 0.1171
+  Book Name       : Loonshots
+  Sentence        : 4567 explor the process of innov specif how groundbreak idea emerg from simpl thought and how import it is for organ to give cours to them by creat learn environ where peopl feel safe explor and creat work
+
+7.
+  Match Index     : 37
+  Similarity Score: 0.1141
+  Book Name       : The Inner Life of Animals
+  Sentence        : 37 present complex research on anim and the life of our ecosystem which is not so differ than our given that they can feel pain experi emot and share other similar with us human scienc
+
+8.
+  Match Index     : 1747
+  Similarity Score: 0.1130
+  Book Name       : The Gifts Of Imperfection
+  Sentence        : 1764 show you how to embrac your inner flaw to accept who you are instead of constantli chase the imag of who your tri to be becaus other peopl expect you to act in certain way product
+
+9.
+  Match Index     : 789
+  Similarity Score: 0.1130
+  Book Name       : The Longevity Project
+  Sentence        : 795 show you how you can live longer by analyz the result from one of the world longestlast studi and draw surpris conclus about the work ethic happi love marriag and religion of peopl who have live to old age relationship
+
+--------------------------------------------------
+
+Model: tfidf_top5_lemma_unique_books
+1.
+  Match Index     : 4720
+  Similarity Score: 0.1663
+  Book Name       : Multipliers
+  Sentence        : 4765 explains the five type of people who inspire support and improve others in their organization showing you how to become one a well a avoid diminishers the people who drag down others and make it harder for them to perform work
+
+2.
+  Match Index     : 3603
+  Similarity Score: 0.1300
+  Book Name       : Bullshit Jobs
+  Sentence        : 3636 asserts that roughly two out of every five people are stuck in work that is bereft of purpose and these worker could suffer psychological damage a a result business
+
+3.
+  Match Index     : 4526
+  Similarity Score: 0.1165
+  Book Name       : Loonshots
+  Sentence        : 4567 explores the process of innovation specifically how groundbreaking idea emerge from simple thought and how important it is for organization to give course to them by creating learning environment where people feel safe exploring and creating work
+
+4.
+  Match Index     : 789
+  Similarity Score: 0.1088
+  Book Name       : The Longevity Project
+  Sentence        : 795 show you how you can live longer by analyzing the result from one of the world longestlasting study and drawing surprising conclusion about the work ethic happiness love marriage and religion of people who have lived to old age relationship
+
+5.
+  Match Index     : 1106
+  Similarity Score: 0.1077
+  Book Name       : When Bad Things Happen To Good People
+  Sentence        : 1117 explains why even the best of people sometimes suffer from adversity and how we can turn our pain into something meaningful instead of lamenting it happiness
+
+6.
+  Match Index     : 71
+  Similarity Score: 0.1056
+  Book Name       : Breath
+  Sentence        : 71 is a fascinating and helpful guide to understanding the science of breathing including how doing it slowly and through your nose is best for your lung and body and the many proven mental and physical benefit of being more mindful of how you inhale and exhale science
+
+7.
+  Match Index     : 125
+  Similarity Score: 0.1037
+  Book Name       : The Sports Gene
+  Sentence        : 125 is a look at how gene affect our ability motivation and endurance in sport explaining why some people are better suited for certain sport than others science
+
+8.
+  Match Index     : 3558
+  Similarity Score: 0.1022
+  Book Name       : The Psychology Of Selling
+  Sentence        : 3591 motivates you to work on your selfimage and how you relate to customer so that you can close more deal business
+
+9.
+  Match Index     : 112
+  Similarity Score: 0.1021
+  Book Name       : Maybe You Should Talk To Someone
+  Sentence        : 112 will help you feel more comfortable with using therapy to improve your mental health by giving a candid look into how therapy really work from the point of view of an experienced therapist who also found herself needing it science
+
+--------------------------------------------------
+
+Model: w2v_lemma_cbow_win10_dim1000_top10
+1.
+  Match Index     : 3070
+  Similarity Score: 0.6162
+  Book Name       : Designing Your Work Life
+  Sentence        : 3098 is a helpful guidebook for anyone who want to create and maintain a work environment that is both happy and productive by working with what they already have rather than keep on changing job in hope of finding better management
+
+2.
+  Match Index     : 3174
+  Similarity Score: 0.6085
+  Book Name       : Multipliers
+  Sentence        : 3202 explains the five type of people who inspire support and improve others in their organization showing you how to become one a well a avoid diminishers the people who drag down others and make it harder for them to perform management
+
+3.
+  Match Index     : 609
+  Similarity Score: 0.6070
+  Book Name       : How to Raise an Adult
+  Sentence        : 612 serf a a practical guide for all the parent who want to raise responsible and independent adult but often catch themselves falling into the trap of over protecting their child and actually inhibiting their natural evolution and the growing up process relationship
+
+4.
+  Match Index     : 4155
+  Similarity Score: 0.5907
+  Book Name       : The Comfort Crisis
+  Sentence        : 4192 address contemporary people who live a stressful life and talk about being comfortable with discomfort and reclaiming a happy healthy mindset by implementing a few odd but highly effective practice in their daily life communication
+
+5.
+  Match Index     : 3168
+  Similarity Score: 0.5625
+  Book Name       : Extreme Ownership
+  Sentence        : 3196 contains useful leadership advice from two navy seal who learned to stay strong disciplined and levelheaded in highstakes combat scenario management
+
+6.
+  Match Index     : 2455
+  Similarity Score: 0.5625
+  Book Name       : The War Of Art
+  Sentence        : 2476 brings some much needed tough love to all artist business people and creatives who spend more time battling the resistance against work than actually working by identifying the procrastinating force at play and pulling out the rug from under their foot psychology
+
+7.
+  Match Index     : 3136
+  Similarity Score: 0.5614
+  Book Name       : Leadership and Self-Deception
+  Sentence        : 3164 is a guide to becoming selfaware by learning to see your fault more accurately understanding others strength and need and leaning into your natural instinct to help other people a much a possible management
+
+8.
+  Match Index     : 2987
+  Similarity Score: 0.5515
+  Book Name       : An Audience Of One
+  Sentence        : 3015 is a practical and inspiring manual for creator who want to live from their art showing a simple purposedriven path to achieve that goal marketing
+
+9.
+  Match Index     : 4283
+  Similarity Score: 0.5508
+  Book Name       : The Art Of Seduction
+  Sentence        : 4322 is a template for persuading anyone whether it a business contact a political adversary or a love interest to act in your best interest communication
+
+--------------------------------------------------
+
+Model: w2v_lemma_cbow_win10_dim300_top10
+1.
+  Match Index     : 3174
+  Similarity Score: 0.6107
+  Book Name       : Multipliers
+  Sentence        : 3202 explains the five type of people who inspire support and improve others in their organization showing you how to become one a well a avoid diminishers the people who drag down others and make it harder for them to perform management
+
+2.
+  Match Index     : 3070
+  Similarity Score: 0.6017
+  Book Name       : Designing Your Work Life
+  Sentence        : 3098 is a helpful guidebook for anyone who want to create and maintain a work environment that is both happy and productive by working with what they already have rather than keep on changing job in hope of finding better management
+
+3.
+  Match Index     : 4155
+  Similarity Score: 0.5854
+  Book Name       : The Comfort Crisis
+  Sentence        : 4192 address contemporary people who live a stressful life and talk about being comfortable with discomfort and reclaiming a happy healthy mindset by implementing a few odd but highly effective practice in their daily life communication
+
+4.
+  Match Index     : 609
+  Similarity Score: 0.5786
+  Book Name       : How to Raise an Adult
+  Sentence        : 612 serf a a practical guide for all the parent who want to raise responsible and independent adult but often catch themselves falling into the trap of over protecting their child and actually inhibiting their natural evolution and the growing up process relationship
+
+5.
+  Match Index     : 2455
+  Similarity Score: 0.5604
+  Book Name       : The War Of Art
+  Sentence        : 2476 brings some much needed tough love to all artist business people and creatives who spend more time battling the resistance against work than actually working by identifying the procrastinating force at play and pulling out the rug from under their foot psychology
+
+6.
+  Match Index     : 2898
+  Similarity Score: 0.5496
+  Book Name       : Make Your Mark
+  Sentence        : 2923 is a business book for creatives telling them how to get started on turning their creative energy into a profitable business with simple actionable idea taken from 20 leading entrepreneur and designer who lead successful creative business motivation
+
+7.
+  Match Index     : 3168
+  Similarity Score: 0.5477
+  Book Name       : Extreme Ownership
+  Sentence        : 3196 contains useful leadership advice from two navy seal who learned to stay strong disciplined and levelheaded in highstakes combat scenario management
+
+8.
+  Match Index     : 3136
+  Similarity Score: 0.5426
+  Book Name       : Leadership and Self-Deception
+  Sentence        : 3164 is a guide to becoming selfaware by learning to see your fault more accurately understanding others strength and need and leaning into your natural instinct to help other people a much a possible management
+
+9.
+  Match Index     : 4283
+  Similarity Score: 0.5416
+  Book Name       : The Art Of Seduction
+  Sentence        : 4322 is a template for persuading anyone whether it a business contact a political adversary or a love interest to act in your best interest communication
+
+--------------------------------------------------
+
+Model: w2v_lemma_cbow_win4_dim1000_top10
+1.
+  Match Index     : 3070
+  Similarity Score: 0.7605
+  Book Name       : Designing Your Work Life
+  Sentence        : 3098 is a helpful guidebook for anyone who want to create and maintain a work environment that is both happy and productive by working with what they already have rather than keep on changing job in hope of finding better management
+
+2.
+  Match Index     : 4155
+  Similarity Score: 0.7426
+  Book Name       : The Comfort Crisis
+  Sentence        : 4192 address contemporary people who live a stressful life and talk about being comfortable with discomfort and reclaiming a happy healthy mindset by implementing a few odd but highly effective practice in their daily life communication
+
+3.
+  Match Index     : 1445
+  Similarity Score: 0.7219
+  Book Name       : The Book of Mistakes
+  Sentence        : 1459 follows the adventure of david a young adult who is going through a rough patch and receives guidance from a wise man who teach him the nine mistake he should avoid how to become successful and a series of valuable life lesson that can save anyone many year of their life productivity
+
+4.
+  Match Index     : 901
+  Similarity Score: 0.7207
+  Book Name       : How to Raise an Adult
+  Sentence        : 908 serf a a practical guide for all the parent who want to raise responsible and independent adult but often catch themselves falling into the trap of over protecting their child and actually inhibiting their natural evolution and the growing up process happiness
+
+5.
+  Match Index     : 2761
+  Similarity Score: 0.7147
+  Book Name       : Extreme Ownership
+  Sentence        : 2786 contains useful leadership advice from two navy seal who learned to stay strong disciplined and levelheaded in highstakes combat scenario motivation
+
+6.
+  Match Index     : 2799
+  Similarity Score: 0.7017
+  Book Name       : 12 Rules For Life
+  Sentence        : 2824 is a storybased stern yet entertaining selfhelp manual for young people laying out a set of simple rule to help u become more disciplined behave better act with integrity and balance our life while enjoying them a much a we can motivation
+
+7.
+  Match Index     : 1442
+  Similarity Score: 0.6989
+  Book Name       : Love Warrior
+  Sentence        : 1456 delf into the life of glennon doyle a woman who battled with selfdestructive behavior eating disorder depression and many more challenge before finally embracing the life she deserved and started living meaningfully while being true to herself productivity
+
+8.
+  Match Index     : 3868
+  Similarity Score: 0.6989
+  Book Name       : An Audience Of One
+  Sentence        : 3904 is a practical and inspiring manual for creator who want to live from their art showing a simple purposedriven path to achieve that goal creativity
+
+9.
+  Match Index     : 3260
+  Similarity Score: 0.6977
+  Book Name       : Daily Rituals
+  Sentence        : 3288 is a compilation of the best practice and habit of successful people from different field aimed to help anyone increase productivity get past writer block and become more creative and efficient in their everyday work health
+
+--------------------------------------------------
+
+Model: w2v_lemma_cbow_win4_dim300_top10
+1.
+  Match Index     : 3070
+  Similarity Score: 0.7490
+  Book Name       : Designing Your Work Life
+  Sentence        : 3098 is a helpful guidebook for anyone who want to create and maintain a work environment that is both happy and productive by working with what they already have rather than keep on changing job in hope of finding better management
+
+2.
+  Match Index     : 4155
+  Similarity Score: 0.7219
+  Book Name       : The Comfort Crisis
+  Sentence        : 4192 address contemporary people who live a stressful life and talk about being comfortable with discomfort and reclaiming a happy healthy mindset by implementing a few odd but highly effective practice in their daily life communication
+
+3.
+  Match Index     : 901
+  Similarity Score: 0.7207
+  Book Name       : How to Raise an Adult
+  Sentence        : 908 serf a a practical guide for all the parent who want to raise responsible and independent adult but often catch themselves falling into the trap of over protecting their child and actually inhibiting their natural evolution and the growing up process happiness
+
+4.
+  Match Index     : 1445
+  Similarity Score: 0.7106
+  Book Name       : The Book of Mistakes
+  Sentence        : 1459 follows the adventure of david a young adult who is going through a rough patch and receives guidance from a wise man who teach him the nine mistake he should avoid how to become successful and a series of valuable life lesson that can save anyone many year of their life productivity
+
+5.
+  Match Index     : 2799
+  Similarity Score: 0.6964
+  Book Name       : 12 Rules For Life
+  Sentence        : 2824 is a storybased stern yet entertaining selfhelp manual for young people laying out a set of simple rule to help u become more disciplined behave better act with integrity and balance our life while enjoying them a much a we can motivation
+
+6.
+  Match Index     : 3868
+  Similarity Score: 0.6929
+  Book Name       : An Audience Of One
+  Sentence        : 3904 is a practical and inspiring manual for creator who want to live from their art showing a simple purposedriven path to achieve that goal creativity
+
+7.
+  Match Index     : 43
+  Similarity Score: 0.6923
+  Book Name       : The High 5 Habit
+  Sentence        : 43 is a selfimprovement book that aim to help anyone who deal with selflimitations take charge of their life by establishing a morning routine ditching negative talk and transforming their life through positivity and confidence science
+
+8.
+  Match Index     : 3174
+  Similarity Score: 0.6893
+  Book Name       : Multipliers
+  Sentence        : 3202 explains the five type of people who inspire support and improve others in their organization showing you how to become one a well a avoid diminishers the people who drag down others and make it harder for them to perform management
+
+9.
+  Match Index     : 2898
+  Similarity Score: 0.6835
+  Book Name       : Make Your Mark
+  Sentence        : 2923 is a business book for creatives telling them how to get started on turning their creative energy into a profitable business with simple actionable idea taken from 20 leading entrepreneur and designer who lead successful creative business motivation
+
+--------------------------------------------------
+
+Model: w2v_lemma_skipgram_win10_dim1000_top10
+1.
+  Match Index     : 1665
+  Similarity Score: 0.7628
+  Book Name       : Multipliers
+  Sentence        : 1682 explains the five type of people who inspire support and improve others in their organization showing you how to become one a well a avoid diminishers the people who drag down others and make it harder for them to perform productivity
+
+2.
+  Match Index     : 4915
+  Similarity Score: 0.7551
+  Book Name       : Designing Your Work Life
+  Sentence        : 4961 is a helpful guidebook for anyone who want to create and maintain a work environment that is both happy and productive by working with what they already have rather than keep on changing job in hope of finding better mindfulness
+
+3.
+  Match Index     : 609
+  Similarity Score: 0.7496
+  Book Name       : How to Raise an Adult
+  Sentence        : 612 serf a a practical guide for all the parent who want to raise responsible and independent adult but often catch themselves falling into the trap of over protecting their child and actually inhibiting their natural evolution and the growing up process relationship
+
+4.
+  Match Index     : 2063
+  Similarity Score: 0.7430
+  Book Name       : Leadership and Self-Deception
+  Sentence        : 2083 is a guide to becoming selfaware by learning to see your fault more accurately understanding others strength and need and leaning into your natural instinct to help other people a much a possible psychology
+
+5.
+  Match Index     : 2218
+  Similarity Score: 0.7235
+  Book Name       : The Art Of Seduction
+  Sentence        : 2238 is a template for persuading anyone whether it a business contact a political adversary or a love interest to act in your best interest psychology
+
+6.
+  Match Index     : 3312
+  Similarity Score: 0.7176
+  Book Name       : Breath
+  Sentence        : 3341 is a fascinating and helpful guide to understanding the science of breathing including how doing it slowly and through your nose is best for your lung and body and the many proven mental and physical benefit of being more mindful of how you inhale and exhale health
+
+7.
+  Match Index     : 4956
+  Similarity Score: 0.7164
+  Book Name       : Toward a Psychology of Being
+  Sentence        : 5002 encompasses the extended research of abraham maslow on the human condition how people view their want and need the process of psychological growth and how achieving a sense of fulfillment is possible by understanding your perspective on need and the way your mind work mindfulness
+
+8.
+  Match Index     : 2145
+  Similarity Score: 0.7160
+  Book Name       : Bullshit Jobs
+  Sentence        : 2165 asserts that roughly two out of every five people are stuck in work that is bereft of purpose and these worker could suffer psychological damage a a result psychology
+
+9.
+  Match Index     : 487
+  Similarity Score: 0.7160
+  Book Name       : Money
+  Sentence        : 490 is your guide for learning how to stop pushing yourself to do more at your job and live a happier and more fulfilling life by making your money work hard for you economics
+
+--------------------------------------------------
+
+Model: w2v_lemma_skipgram_win10_dim300_top10
+1.
+  Match Index     : 1665
+  Similarity Score: 0.7663
+  Book Name       : Multipliers
+  Sentence        : 1682 explains the five type of people who inspire support and improve others in their organization showing you how to become one a well a avoid diminishers the people who drag down others and make it harder for them to perform productivity
+
+2.
+  Match Index     : 4915
+  Similarity Score: 0.7548
+  Book Name       : Designing Your Work Life
+  Sentence        : 4961 is a helpful guidebook for anyone who want to create and maintain a work environment that is both happy and productive by working with what they already have rather than keep on changing job in hope of finding better mindfulness
+
+3.
+  Match Index     : 609
+  Similarity Score: 0.7445
+  Book Name       : How to Raise an Adult
+  Sentence        : 612 serf a a practical guide for all the parent who want to raise responsible and independent adult but often catch themselves falling into the trap of over protecting their child and actually inhibiting their natural evolution and the growing up process relationship
+
+4.
+  Match Index     : 2063
+  Similarity Score: 0.7413
+  Book Name       : Leadership and Self-Deception
+  Sentence        : 2083 is a guide to becoming selfaware by learning to see your fault more accurately understanding others strength and need and leaning into your natural instinct to help other people a much a possible psychology
+
+5.
+  Match Index     : 2218
+  Similarity Score: 0.7251
+  Book Name       : The Art Of Seduction
+  Sentence        : 2238 is a template for persuading anyone whether it a business contact a political adversary or a love interest to act in your best interest psychology
+
+6.
+  Match Index     : 3312
+  Similarity Score: 0.7213
+  Book Name       : Breath
+  Sentence        : 3341 is a fascinating and helpful guide to understanding the science of breathing including how doing it slowly and through your nose is best for your lung and body and the many proven mental and physical benefit of being more mindful of how you inhale and exhale health
+
+7.
+  Match Index     : 2145
+  Similarity Score: 0.7182
+  Book Name       : Bullshit Jobs
+  Sentence        : 2165 asserts that roughly two out of every five people are stuck in work that is bereft of purpose and these worker could suffer psychological damage a a result psychology
+
+8.
+  Match Index     : 1999
+  Similarity Score: 0.7166
+  Book Name       : How To Do The Work
+  Sentence        : 2017 is a goto guide that teach u how to establish a mindbodyspirit connection and create better connection with the people around u by exploring how these aspect are interconnected and influenced by the way we eat think and feel psychology
+
+9.
+  Match Index     : 4956
+  Similarity Score: 0.7145
+  Book Name       : Toward a Psychology of Being
+  Sentence        : 5002 encompasses the extended research of abraham maslow on the human condition how people view their want and need the process of psychological growth and how achieving a sense of fulfillment is possible by understanding your perspective on need and the way your mind work mindfulness
+
+--------------------------------------------------
+
+Model: w2v_lemma_skipgram_win4_dim1000_top10
+1.
+  Match Index     : 4915
+  Similarity Score: 0.8509
+  Book Name       : Designing Your Work Life
+  Sentence        : 4961 is a helpful guidebook for anyone who want to create and maintain a work environment that is both happy and productive by working with what they already have rather than keep on changing job in hope of finding better mindfulness
+
+2.
+  Match Index     : 2168
+  Similarity Score: 0.8313
+  Book Name       : Multipliers
+  Sentence        : 2188 explains the five type of people who inspire support and improve others in their organization showing you how to become one a well a avoid diminishers the people who drag down others and make it harder for them to perform psychology
+
+3.
+  Match Index     : 609
+  Similarity Score: 0.8285
+  Book Name       : How to Raise an Adult
+  Sentence        : 612 serf a a practical guide for all the parent who want to raise responsible and independent adult but often catch themselves falling into the trap of over protecting their child and actually inhibiting their natural evolution and the growing up process relationship
+
+4.
+  Match Index     : 667
+  Similarity Score: 0.8118
+  Book Name       : Leadership and Self-Deception
+  Sentence        : 673 is a guide to becoming selfaware by learning to see your fault more accurately understanding others strength and need and leaning into your natural instinct to help other people a much a possible relationship
+
+5.
+  Match Index     : 4953
+  Similarity Score: 0.8101
+  Book Name       : 10-Minute Toughness
+  Sentence        : 4999 is a handson guide to becoming the best version of yourself and achieving success through consistent good practice such a eating right forming meaningful relationship committing to your goal publicly visualizing your achievement and many others mindfulness
+
+6.
+  Match Index     : 5004
+  Similarity Score: 0.8100
+  Book Name       : Boundaries
+  Sentence        : 5054 explains with the help of modern psychology and christian ideal how to improve your mental health and personal growth by establishing guideline for selfcare that include saying no more often and standing firm in your decision rather than letting people walk all over you mindfulness
+
+7.
+  Match Index     : 768
+  Similarity Score: 0.8091
+  Book Name       : 12 Rules For Life
+  Sentence        : 774 is a storybased stern yet entertaining selfhelp manual for young people laying out a set of simple rule to help u become more disciplined behave better act with integrity and balance our life while enjoying them a much a we can relationship
+
+8.
+  Match Index     : 4940
+  Similarity Score: 0.8075
+  Book Name       : The Comfort Crisis
+  Sentence        : 4986 address contemporary people who live a stressful life and talk about being comfortable with discomfort and reclaiming a happy healthy mindset by implementing a few odd but highly effective practice in their daily life mindfulness
+
+9.
+  Match Index     : 43
+  Similarity Score: 0.8056
+  Book Name       : The High 5 Habit
+  Sentence        : 43 is a selfimprovement book that aim to help anyone who deal with selflimitations take charge of their life by establishing a morning routine ditching negative talk and transforming their life through positivity and confidence science
+
+--------------------------------------------------
+
+Model: w2v_lemma_skipgram_win4_dim300_top10
+1.
+  Match Index     : 4915
+  Similarity Score: 0.8521
+  Book Name       : Designing Your Work Life
+  Sentence        : 4961 is a helpful guidebook for anyone who want to create and maintain a work environment that is both happy and productive by working with what they already have rather than keep on changing job in hope of finding better mindfulness
+
+2.
+  Match Index     : 2168
+  Similarity Score: 0.8374
+  Book Name       : Multipliers
+  Sentence        : 2188 explains the five type of people who inspire support and improve others in their organization showing you how to become one a well a avoid diminishers the people who drag down others and make it harder for them to perform psychology
+
+3.
+  Match Index     : 609
+  Similarity Score: 0.8253
+  Book Name       : How to Raise an Adult
+  Sentence        : 612 serf a a practical guide for all the parent who want to raise responsible and independent adult but often catch themselves falling into the trap of over protecting their child and actually inhibiting their natural evolution and the growing up process relationship
+
+4.
+  Match Index     : 5004
+  Similarity Score: 0.8136
+  Book Name       : Boundaries
+  Sentence        : 5054 explains with the help of modern psychology and christian ideal how to improve your mental health and personal growth by establishing guideline for selfcare that include saying no more often and standing firm in your decision rather than letting people walk all over you mindfulness
+
+5.
+  Match Index     : 768
+  Similarity Score: 0.8103
+  Book Name       : 12 Rules For Life
+  Sentence        : 774 is a storybased stern yet entertaining selfhelp manual for young people laying out a set of simple rule to help u become more disciplined behave better act with integrity and balance our life while enjoying them a much a we can relationship
+
+6.
+  Match Index     : 4953
+  Similarity Score: 0.8099
+  Book Name       : 10-Minute Toughness
+  Sentence        : 4999 is a handson guide to becoming the best version of yourself and achieving success through consistent good practice such a eating right forming meaningful relationship committing to your goal publicly visualizing your achievement and many others mindfulness
+
+7.
+  Match Index     : 667
+  Similarity Score: 0.8095
+  Book Name       : Leadership and Self-Deception
+  Sentence        : 673 is a guide to becoming selfaware by learning to see your fault more accurately understanding others strength and need and leaning into your natural instinct to help other people a much a possible relationship
+
+8.
+  Match Index     : 4732
+  Similarity Score: 0.8020
+  Book Name       : An Audience Of One
+  Sentence        : 4777 is a practical and inspiring manual for creator who want to live from their art showing a simple purposedriven path to achieve that goal work
+
+9.
+  Match Index     : 602
+  Similarity Score: 0.8018
+  Book Name       : The Comfort Crisis
+  Sentence        : 605 address contemporary people who live a stressful life and talk about being comfortable with discomfort and reclaiming a happy healthy mindset by implementing a few odd but highly effective practice in their daily life relationship
+
+--------------------------------------------------
+
+Model: w2v_stem_cbow_win10_dim1000_top10
+1.
+  Match Index     : 1978
+  Similarity Score: 0.6202
+  Book Name       : How to Be a Conservative
+  Sentence        : 1996 build the case for traditionalist and conserv peopl who view societi through the lens of someon who defend their nation the longlast valu of the world the free market and mani other healthi principl psycholog
+
+2.
+  Match Index     : 1442
+  Similarity Score: 0.6184
+  Book Name       : Love Warrior
+  Sentence        : 1456 delv into the life of glennon doyl a woman who battl with selfdestruct behavior eat disord depress and mani more challeng befor final embrac the life she deserv and start live meaning while be true to herself product
+
+3.
+  Match Index     : 1665
+  Similarity Score: 0.6133
+  Book Name       : Multipliers
+  Sentence        : 1682 explain the five type of peopl who inspir support and improv other in their organ show you how to becom one as well as avoid diminish the peopl who drag down other and make it harder for them to perform product
+
+4.
+  Match Index     : 4155
+  Similarity Score: 0.5993
+  Book Name       : The Comfort Crisis
+  Sentence        : 4192 address contemporari peopl who live a stress life and talk about be comfort with discomfort and reclaim a happi healthi mindset by implement a few odd but highli effect practic in their daili live commun
+
+5.
+  Match Index     : 1689
+  Similarity Score: 0.5908
+  Book Name       : Braving The Wilderness
+  Sentence        : 1706 offer a fourstep process to find true belong through authent braveri trust and vulner sinc it mostli about learn to stand alon rather than tri to fit in product
+
+6.
+  Match Index     : 1659
+  Similarity Score: 0.5898
+  Book Name       : Extreme Ownership
+  Sentence        : 1676 contain use leadership advic from two navi seal who learn to stay strong disciplin and levelhead in highstak combat scenario product
+
+7.
+  Match Index     : 2455
+  Similarity Score: 0.5835
+  Book Name       : The War Of Art
+  Sentence        : 2476 bring some much need tough love to all artist busi peopl and creativ who spend more time battl the resist against work than actual work by identifi the procrastin forc at play and pull out the rug from under their feet psycholog
+
+8.
+  Match Index     : 901
+  Similarity Score: 0.5820
+  Book Name       : How to Raise an Adult
+  Sentence        : 908 serv as a practic guid for all the parent who want to rais respons and independ adult but often catch themselv fall into the trap of over protect their children and actual inhibit their natur evolut and the grow up process happi
+
+9.
+  Match Index     : 4915
+  Similarity Score: 0.5683
+  Book Name       : Designing Your Work Life
+  Sentence        : 4961 is a help guidebook for anyon who want to creat and maintain a work environ that is both happi and product by work with what they alreadi have rather than keep on chang job in hope of find better mind
+
+--------------------------------------------------
+
+Model: w2v_stem_cbow_win10_dim300_top10
+1.
+  Match Index     : 1442
+  Similarity Score: 0.6179
+  Book Name       : Love Warrior
+  Sentence        : 1456 delv into the life of glennon doyl a woman who battl with selfdestruct behavior eat disord depress and mani more challeng befor final embrac the life she deserv and start live meaning while be true to herself product
+
+2.
+  Match Index     : 1665
+  Similarity Score: 0.6128
+  Book Name       : Multipliers
+  Sentence        : 1682 explain the five type of peopl who inspir support and improv other in their organ show you how to becom one as well as avoid diminish the peopl who drag down other and make it harder for them to perform product
+
+3.
+  Match Index     : 1978
+  Similarity Score: 0.6084
+  Book Name       : How to Be a Conservative
+  Sentence        : 1996 build the case for traditionalist and conserv peopl who view societi through the lens of someon who defend their nation the longlast valu of the world the free market and mani other healthi principl psycholog
+
+4.
+  Match Index     : 1689
+  Similarity Score: 0.5908
+  Book Name       : Braving The Wilderness
+  Sentence        : 1706 offer a fourstep process to find true belong through authent braveri trust and vulner sinc it mostli about learn to stand alon rather than tri to fit in product
+
+5.
+  Match Index     : 4155
+  Similarity Score: 0.5848
+  Book Name       : The Comfort Crisis
+  Sentence        : 4192 address contemporari peopl who live a stress life and talk about be comfort with discomfort and reclaim a happi healthi mindset by implement a few odd but highli effect practic in their daili live commun
+
+6.
+  Match Index     : 1659
+  Similarity Score: 0.5803
+  Book Name       : Extreme Ownership
+  Sentence        : 1676 contain use leadership advic from two navi seal who learn to stay strong disciplin and levelhead in highstak combat scenario product
+
+7.
+  Match Index     : 901
+  Similarity Score: 0.5787
+  Book Name       : How to Raise an Adult
+  Sentence        : 908 serv as a practic guid for all the parent who want to rais respons and independ adult but often catch themselv fall into the trap of over protect their children and actual inhibit their natur evolut and the grow up process happi
+
+8.
+  Match Index     : 2455
+  Similarity Score: 0.5762
+  Book Name       : The War Of Art
+  Sentence        : 2476 bring some much need tough love to all artist busi peopl and creativ who spend more time battl the resist against work than actual work by identifi the procrastin forc at play and pull out the rug from under their feet psycholog
+
+9.
+  Match Index     : 3809
+  Similarity Score: 0.5667
+  Book Name       : Designing Your Work Life
+  Sentence        : 3842 is a help guidebook for anyon who want to creat and maintain a work environ that is both happi and product by work with what they alreadi have rather than keep on chang job in hope of find better creativ
+
+--------------------------------------------------
+
+Model: w2v_stem_cbow_win4_dim1000_top10
+1.
+  Match Index     : 4915
+  Similarity Score: 0.7333
+  Book Name       : Designing Your Work Life
+  Sentence        : 4961 is a help guidebook for anyon who want to creat and maintain a work environ that is both happi and product by work with what they alreadi have rather than keep on chang job in hope of find better mind
+
+2.
+  Match Index     : 2568
+  Similarity Score: 0.7252
+  Book Name       : The Comfort Crisis
+  Sentence        : 2589 address contemporari peopl who live a stress life and talk about be comfort with discomfort and reclaim a happi healthi mindset by implement a few odd but highli effect practic in their daili live motiv
+
+3.
+  Match Index     : 1445
+  Similarity Score: 0.7246
+  Book Name       : The Book of Mistakes
+  Sentence        : 1459 follow the adventur of david a young adult who is go through a rough patch and receiv guidanc from a wise man who teach him the nine mistak he should avoid how to becom success and a seri of valuabl life lesson that can save anyon mani year of their life product
+
+4.
+  Match Index     : 1442
+  Similarity Score: 0.7233
+  Book Name       : Love Warrior
+  Sentence        : 1456 delv into the life of glennon doyl a woman who battl with selfdestruct behavior eat disord depress and mani more challeng befor final embrac the life she deserv and start live meaning while be true to herself product
+
+5.
+  Match Index     : 901
+  Similarity Score: 0.7183
+  Book Name       : How to Raise an Adult
+  Sentence        : 908 serv as a practic guid for all the parent who want to rais respons and independ adult but often catch themselv fall into the trap of over protect their children and actual inhibit their natur evolut and the grow up process happi
+
+6.
+  Match Index     : 4908
+  Similarity Score: 0.7147
+  Book Name       : Daily Rituals
+  Sentence        : 4954 is a compil of the best practic and habit of success peopl from differ field aim to help anyon increas product get past writer block and becom more creativ and effici in their everyday work mind
+
+7.
+  Match Index     : 1603
+  Similarity Score: 0.7050
+  Book Name       : The Introvert’s Complete Career Guide
+  Sentence        : 1620 will teach those who have a hard time talk to peopl how to gain confid in navig the workplac from job interview to offic relationship product
+
+8.
+  Match Index     : 1659
+  Similarity Score: 0.6988
+  Book Name       : Extreme Ownership
+  Sentence        : 1676 contain use leadership advic from two navi seal who learn to stay strong disciplin and levelhead in highstak combat scenario product
+
+9.
+  Match Index     : 2751
+  Similarity Score: 0.6965
+  Book Name       : Unlocking Potential
+  Sentence        : 2776 is a guid that will help you as a leader make a differ in peopl live in the long run by learn how to coach peopl in a way that bring to light their greatest strength and capabl motiv
+
+--------------------------------------------------
+
+Model: w2v_stem_cbow_win4_dim300_top10
+1.
+  Match Index     : 4915
+  Similarity Score: 0.7347
+  Book Name       : Designing Your Work Life
+  Sentence        : 4961 is a help guidebook for anyon who want to creat and maintain a work environ that is both happi and product by work with what they alreadi have rather than keep on chang job in hope of find better mind
+
+2.
+  Match Index     : 1442
+  Similarity Score: 0.7336
+  Book Name       : Love Warrior
+  Sentence        : 1456 delv into the life of glennon doyl a woman who battl with selfdestruct behavior eat disord depress and mani more challeng befor final embrac the life she deserv and start live meaning while be true to herself product
+
+3.
+  Match Index     : 901
+  Similarity Score: 0.7294
+  Book Name       : How to Raise an Adult
+  Sentence        : 908 serv as a practic guid for all the parent who want to rais respons and independ adult but often catch themselv fall into the trap of over protect their children and actual inhibit their natur evolut and the grow up process happi
+
+4.
+  Match Index     : 1445
+  Similarity Score: 0.7244
+  Book Name       : The Book of Mistakes
+  Sentence        : 1459 follow the adventur of david a young adult who is go through a rough patch and receiv guidanc from a wise man who teach him the nine mistak he should avoid how to becom success and a seri of valuabl life lesson that can save anyon mani year of their life product
+
+5.
+  Match Index     : 2568
+  Similarity Score: 0.7144
+  Book Name       : The Comfort Crisis
+  Sentence        : 2589 address contemporari peopl who live a stress life and talk about be comfort with discomfort and reclaim a happi healthi mindset by implement a few odd but highli effect practic in their daili live motiv
+
+6.
+  Match Index     : 4908
+  Similarity Score: 0.7074
+  Book Name       : Daily Rituals
+  Sentence        : 4954 is a compil of the best practic and habit of success peopl from differ field aim to help anyon increas product get past writer block and becom more creativ and effici in their everyday work mind
+
+7.
+  Match Index     : 2168
+  Similarity Score: 0.7062
+  Book Name       : Multipliers
+  Sentence        : 2188 explain the five type of peopl who inspir support and improv other in their organ show you how to becom one as well as avoid diminish the peopl who drag down other and make it harder for them to perform psycholog
+
+8.
+  Match Index     : 1978
+  Similarity Score: 0.7050
+  Book Name       : How to Be a Conservative
+  Sentence        : 1996 build the case for traditionalist and conserv peopl who view societi through the lens of someon who defend their nation the longlast valu of the world the free market and mani other healthi principl psycholog
+
+9.
+  Match Index     : 1659
+  Similarity Score: 0.7028
+  Book Name       : Extreme Ownership
+  Sentence        : 1676 contain use leadership advic from two navi seal who learn to stay strong disciplin and levelhead in highstak combat scenario product
+
+--------------------------------------------------
+
+Model: w2v_stem_skipgram_win10_dim1000_top10
+1.
+  Match Index     : 4260
+  Similarity Score: 0.7572
+  Book Name       : Multipliers
+  Sentence        : 4299 explain the five type of peopl who inspir support and improv other in their organ show you how to becom one as well as avoid diminish the peopl who drag down other and make it harder for them to perform commun
+
+2.
+  Match Index     : 4915
+  Similarity Score: 0.7444
+  Book Name       : Designing Your Work Life
+  Sentence        : 4961 is a help guidebook for anyon who want to creat and maintain a work environ that is both happi and product by work with what they alreadi have rather than keep on chang job in hope of find better mind
+
+3.
+  Match Index     : 609
+  Similarity Score: 0.7353
+  Book Name       : How to Raise an Adult
+  Sentence        : 612 serv as a practic guid for all the parent who want to rais respons and independ adult but often catch themselv fall into the trap of over protect their children and actual inhibit their natur evolut and the grow up process relationship
+
+4.
+  Match Index     : 1534
+  Similarity Score: 0.7317
+  Book Name       : Thoughts Without A Thinker
+  Sentence        : 1551 help you get more peac overcom mental ill and eas suffer by outlin the principl of buddhism mind and medit as they relat to psychoanalysi product
+
+5.
+  Match Index     : 1441
+  Similarity Score: 0.7265
+  Book Name       : Loonshots
+  Sentence        : 1455 explor the process of innov specif how groundbreak idea emerg from simpl thought and how import it is for organ to give cours to them by creat learn environ where peopl feel safe explor and creat product
+
+6.
+  Match Index     : 4173
+  Similarity Score: 0.7239
+  Book Name       : Boundaries
+  Sentence        : 4212 explain with the help of modern psycholog and christian ideal how to improv your mental health and person growth by establish guidelin for selfcar that includ say no more often and stand firm in your decis rather than let peopl walk all over you commun
+
+7.
+  Match Index     : 1999
+  Similarity Score: 0.7234
+  Book Name       : How To Do The Work
+  Sentence        : 2017 is a goto guid that teach us how to establish a mindbodyspirit connect and creat better connect with the peopl around us by explor how these aspect are interconnect and influenc by the way we eat think and feel psycholog
+
+8.
+  Match Index     : 4956
+  Similarity Score: 0.7232
+  Book Name       : Toward a Psychology of Being
+  Sentence        : 5002 encompass the extend research of abraham maslow on the human condit how peopl view their want and need the process of psycholog growth and how achiev a sens of fulfil is possibl by understand your perspect on need and the way your mind work mind
+
+9.
+  Match Index     : 4155
+  Similarity Score: 0.7201
+  Book Name       : The Comfort Crisis
+  Sentence        : 4192 address contemporari peopl who live a stress life and talk about be comfort with discomfort and reclaim a happi healthi mindset by implement a few odd but highli effect practic in their daili live commun
+
+--------------------------------------------------
+
+Model: w2v_stem_skipgram_win10_dim300_top10
+1.
+  Match Index     : 2168
+  Similarity Score: 0.7519
+  Book Name       : Multipliers
+  Sentence        : 2188 explain the five type of peopl who inspir support and improv other in their organ show you how to becom one as well as avoid diminish the peopl who drag down other and make it harder for them to perform psycholog
+
+2.
+  Match Index     : 4915
+  Similarity Score: 0.7413
+  Book Name       : Designing Your Work Life
+  Sentence        : 4961 is a help guidebook for anyon who want to creat and maintain a work environ that is both happi and product by work with what they alreadi have rather than keep on chang job in hope of find better mind
+
+3.
+  Match Index     : 901
+  Similarity Score: 0.7391
+  Book Name       : How to Raise an Adult
+  Sentence        : 908 serv as a practic guid for all the parent who want to rais respons and independ adult but often catch themselv fall into the trap of over protect their children and actual inhibit their natur evolut and the grow up process happi
+
+4.
+  Match Index     : 1534
+  Similarity Score: 0.7383
+  Book Name       : Thoughts Without A Thinker
+  Sentence        : 1551 help you get more peac overcom mental ill and eas suffer by outlin the principl of buddhism mind and medit as they relat to psychoanalysi product
+
+5.
+  Match Index     : 4956
+  Similarity Score: 0.7263
+  Book Name       : Toward a Psychology of Being
+  Sentence        : 5002 encompass the extend research of abraham maslow on the human condit how peopl view their want and need the process of psycholog growth and how achiev a sens of fulfil is possibl by understand your perspect on need and the way your mind work mind
+
+6.
+  Match Index     : 4173
+  Similarity Score: 0.7234
+  Book Name       : Boundaries
+  Sentence        : 4212 explain with the help of modern psycholog and christian ideal how to improv your mental health and person growth by establish guidelin for selfcar that includ say no more often and stand firm in your decis rather than let peopl walk all over you commun
+
+7.
+  Match Index     : 2523
+  Similarity Score: 0.7223
+  Book Name       : Loonshots
+  Sentence        : 2544 explor the process of innov specif how groundbreak idea emerg from simpl thought and how import it is for organ to give cours to them by creat learn environ where peopl feel safe explor and creat motiv
+
+8.
+  Match Index     : 1999
+  Similarity Score: 0.7186
+  Book Name       : How To Do The Work
+  Sentence        : 2017 is a goto guid that teach us how to establish a mindbodyspirit connect and creat better connect with the peopl around us by explor how these aspect are interconnect and influenc by the way we eat think and feel psycholog
+
+9.
+  Match Index     : 3330
+  Similarity Score: 0.7173
+  Book Name       : Eat To Live
+  Sentence        : 3359 will help you lose weight feel better and live longer by identifi the flaw in what we think is true about nutrit and use scienc and case studi to reveal how certain food affect us for better or wors health
+
+--------------------------------------------------
+
+Model: w2v_stem_skipgram_win4_dim1000_top10
+1.
+  Match Index     : 4915
+  Similarity Score: 0.8346
+  Book Name       : Designing Your Work Life
+  Sentence        : 4961 is a help guidebook for anyon who want to creat and maintain a work environ that is both happi and product by work with what they alreadi have rather than keep on chang job in hope of find better mind
+
+2.
+  Match Index     : 609
+  Similarity Score: 0.8287
+  Book Name       : How to Raise an Adult
+  Sentence        : 612 serv as a practic guid for all the parent who want to rais respons and independ adult but often catch themselv fall into the trap of over protect their children and actual inhibit their natur evolut and the grow up process relationship
+
+3.
+  Match Index     : 2168
+  Similarity Score: 0.8255
+  Book Name       : Multipliers
+  Sentence        : 2188 explain the five type of peopl who inspir support and improv other in their organ show you how to becom one as well as avoid diminish the peopl who drag down other and make it harder for them to perform psycholog
+
+4.
+  Match Index     : 5004
+  Similarity Score: 0.8244
+  Book Name       : Boundaries
+  Sentence        : 5054 explain with the help of modern psycholog and christian ideal how to improv your mental health and person growth by establish guidelin for selfcar that includ say no more often and stand firm in your decis rather than let peopl walk all over you mind
+
+5.
+  Match Index     : 4953
+  Similarity Score: 0.8221
+  Book Name       : 10-Minute Toughness
+  Sentence        : 4999 is a handson guid to becom the best version of yourself and achiev success through consist good practic such as eat right form meaning relationship commit to your goal publicli visual your achiev and mani other mind
+
+6.
+  Match Index     : 5178
+  Similarity Score: 0.8192
+  Book Name       : The In-Between
+  Sentence        : 5228 is a remind to slow down and learn to appreci the littl moment in life like the time when were realli just wait for the next big thing as they shape our live a lot more than we think mind
+
+7.
+  Match Index     : 4005
+  Similarity Score: 0.8185
+  Book Name       : The Courage to Be Happy
+  Sentence        : 4041 offer a handson guid to live a meaning life and let go of neg thought by compil the groundbreak theori of psychologist alfr adler with other valuabl research into an allinon book for becom a happi and fulfil person educ
+
+8.
+  Match Index     : 1703
+  Similarity Score: 0.8176
+  Book Name       : The 4-Hour Body
+  Sentence        : 1720 is a complet guid to hack your health help you achiev anyth from rapid fat loss and quick muscl gain to better sleep sex and extrem athlet perform product
+
+9.
+  Match Index     : 4291
+  Similarity Score: 0.8146
+  Book Name       : 12 Rules For Life
+  Sentence        : 4330 is a storybas stern yet entertain selfhelp manual for young peopl lay out a set of simpl rule to help us becom more disciplin behav better act with integr and balanc our live while enjoy them as much as we can commun
+
+--------------------------------------------------
+
+Model: w2v_stem_skipgram_win4_dim300_top10
+1.
+  Match Index     : 4915
+  Similarity Score: 0.8397
+  Book Name       : Designing Your Work Life
+  Sentence        : 4961 is a help guidebook for anyon who want to creat and maintain a work environ that is both happi and product by work with what they alreadi have rather than keep on chang job in hope of find better mind
+
+2.
+  Match Index     : 609
+  Similarity Score: 0.8324
+  Book Name       : How to Raise an Adult
+  Sentence        : 612 serv as a practic guid for all the parent who want to rais respons and independ adult but often catch themselv fall into the trap of over protect their children and actual inhibit their natur evolut and the grow up process relationship
+
+3.
+  Match Index     : 2168
+  Similarity Score: 0.8292
+  Book Name       : Multipliers
+  Sentence        : 2188 explain the five type of peopl who inspir support and improv other in their organ show you how to becom one as well as avoid diminish the peopl who drag down other and make it harder for them to perform psycholog
+
+4.
+  Match Index     : 4173
+  Similarity Score: 0.8262
+  Book Name       : Boundaries
+  Sentence        : 4212 explain with the help of modern psycholog and christian ideal how to improv your mental health and person growth by establish guidelin for selfcar that includ say no more often and stand firm in your decis rather than let peopl walk all over you commun
+
+5.
+  Match Index     : 451
+  Similarity Score: 0.8219
+  Book Name       : 10-Minute Toughness
+  Sentence        : 453 is a handson guid to becom the best version of yourself and achiev success through consist good practic such as eat right form meaning relationship commit to your goal publicli visual your achiev and mani other econom
+
+6.
+  Match Index     : 1703
+  Similarity Score: 0.8198
+  Book Name       : The 4-Hour Body
+  Sentence        : 1720 is a complet guid to hack your health help you achiev anyth from rapid fat loss and quick muscl gain to better sleep sex and extrem athlet perform product
+
+7.
+  Match Index     : 602
+  Similarity Score: 0.8192
+  Book Name       : The Comfort Crisis
+  Sentence        : 605 address contemporari peopl who live a stress life and talk about be comfort with discomfort and reclaim a happi healthi mindset by implement a few odd but highli effect practic in their daili live relationship
+
+8.
+  Match Index     : 4908
+  Similarity Score: 0.8159
+  Book Name       : Daily Rituals
+  Sentence        : 4954 is a compil of the best practic and habit of success peopl from differ field aim to help anyon increas product get past writer block and becom more creativ and effici in their everyday work mind
+
+9.
+  Match Index     : 2413
+  Similarity Score: 0.8133
+  Book Name       : The In-Between
+  Sentence        : 2433 is a remind to slow down and learn to appreci the littl moment in life like the time when were realli just wait for the next big thing as they shape our live a lot more than we think psycholog
+
+--------------------------------------------------

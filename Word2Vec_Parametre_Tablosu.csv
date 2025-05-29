@@ -1,0 +1,17 @@
+Veri Tipi,Mimarisi,Window,Dimension
+lemma,CBOW,4,300
+lemma,CBOW,4,1000
+lemma,CBOW,10,300
+lemma,CBOW,10,1000
+lemma,SkipGram,4,300
+lemma,SkipGram,4,1000
+lemma,SkipGram,10,300
+lemma,SkipGram,10,1000
+stem,CBOW,4,300
+stem,CBOW,4,1000
+stem,CBOW,10,300
+stem,CBOW,10,1000
+stem,SkipGram,4,300
+stem,SkipGram,4,1000
+stem,SkipGram,10,300
+stem,SkipGram,10,1000
